@@ -3,7 +3,7 @@ var app = express();
 var port = 3000;
 
 app.get('/', function(req, res){
-    res.json({healthy: true})
+    res.json({"items": [{healthy: true}]})
 });
 
 app.listen(port, function(){
