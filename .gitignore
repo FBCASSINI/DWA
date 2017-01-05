@@ -2,3 +2,4 @@ node_module
 logs
 *.log
 .DS_Store
+nodeAPISeed/
