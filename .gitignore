@@ -1,4 +1,4 @@
-
-nodeAPISeed/
-
-URL-Shortener/
+node_module
+logs
+*.log
+.DS_Store
